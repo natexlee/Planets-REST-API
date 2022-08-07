@@ -1,3 +1,5 @@
+![image of planets in our solar system](https://starwalk.space/gallery/images/june-2020-planet-parade-what-is-it-and-how-can-you-see-it/1920x1080.jpg)
+
 #Description
 • A simple REST API that returns a list of planets in our solar system organized by their distance from the sun. 
 
