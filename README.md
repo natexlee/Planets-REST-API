@@ -6,7 +6,7 @@
 ## Prerequisites
 • Must have pip installed
 
-• Must be using an IDE that supports Python such as VS Code. 
+• Must be using an IDE that supports Python such as VS Code 
 
 ## How To Use:
 
