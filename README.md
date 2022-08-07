@@ -5,13 +5,14 @@
 
 ## Prerequisites
 • Must have pip installed
+
 • Must be using an IDE that supports Python such as VS Code. 
 
 ## How To Use:
 
 1: Create a virtual environment for this project
 
-2: install FastAPI using the command pip install fastAPI
+2: Install FastAPI using the command '''pip install fastAPI'''
 
 3: Install uvicorn using the command pip install uvicorn
 
