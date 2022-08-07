@@ -12,9 +12,7 @@
 
 1: Create a virtual environment for this project
 
-2: Install FastAPI using the command '''
-pip install fastAPI
-'''
+2: Install FastAPI using the command ``` pip install fastAPI ```
 
 3: Install uvicorn using the command pip install uvicorn
 
