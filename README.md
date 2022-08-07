@@ -7,14 +7,16 @@
 • Must have pip installed
 • Must be using an IDE that supports Python such as VS Code. 
 
-## How to use:
+## How To Use:
 
 1: Create a virtual environment for this project
 
-2: install fastAPI using the command pip install fastAPI
+2: install FastAPI using the command pip install fastAPI
+
 3: Install uvicorn using the command pip install uvicorn
+
 4: Use the command uvicorn main:app --host "0.0.0.0" --port 8000 --re
-load
+load to host the API locally. 
 
 5: To view the API response visit this endpoint in a web browser: http://localhost:8000
 
