@@ -16,8 +16,7 @@
 
 3: Install uvicorn using the command ``` pip install uvicorn ```
 
-4: Use the command ``` uvicorn main:app --host "0.0.0.0" --port 8000 --re
-load ``` to host the API locally. 
+4: Use the command ``` uvicorn main:app --host "0.0.0.0" --port 8000 --reload ``` to host the API locally. 
 
 5: To view the API response visit this endpoint in a web browser: ``` http://localhost:8000 ```
 
