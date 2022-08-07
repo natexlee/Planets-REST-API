@@ -1,13 +1,13 @@
 ![image of planets in our solar system](https://starwalk.space/gallery/images/june-2020-planet-parade-what-is-it-and-how-can-you-see-it/1920x1080.jpg)
 
-#Description
+## Description
 • A simple REST API that returns a list of planets in our solar system organized by their distance from the sun. 
 
-Prerequisites
+## Prerequisites
 • Must have pip installed
 • Must be using an IDE that supports Python such as VS Code. 
 
-How to use:
+## How to use:
 
 1: Create a virtual environment for this project
 
